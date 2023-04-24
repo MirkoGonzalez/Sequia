@@ -1,0 +1,10 @@
+
+body {
+  background: url("/Users/mirkogonzalez/Desktop/sequia web page/assets/img/background1.jpg") no-repeat center center fixed;
+  background-size: cover;
+  color: blanchedalmond;
+}
+
+.logo{
+  width: 7rem;
+}
