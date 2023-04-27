@@ -1,8 +1,8 @@
 
 body {
-  background: url("assets/img/ceremonial.jpg") no-repeat center center fixed;
+  background: url("assets/img/ceremonial.jpg");
+  background-repeat: no-repeat;
   background-size: cover;
-  color: blanchedalmond;
 }
 
 .logo{
