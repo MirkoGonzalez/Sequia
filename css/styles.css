@@ -1,6 +1,6 @@
 
 body {
-  background: url("assets/img/ceremonial.jpg");
+  background-image: url("assets/img/ceremonial.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
